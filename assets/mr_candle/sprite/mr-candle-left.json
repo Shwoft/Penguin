@@ -1,0 +1,36 @@
+{"frames": {
+
+"mr-candle-left-0.png":
+{
+	"frame": {"x":0,"y":0,"w":19,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":30},
+	"sourceSize": {"w":19,"h":30}
+},
+"mr-candle-left-1.png":
+{
+	"frame": {"x":19,"y":0,"w":19,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":30},
+	"sourceSize": {"w":19,"h":30}
+},
+"mr-candle-left-2.png":
+{
+	"frame": {"x":38,"y":0,"w":19,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":30},
+	"sourceSize": {"w":19,"h":30}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "mr-candle-left",
+	"format": "RGBA8888",
+	"size": {"w":57,"h":30},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f1b8194c4ba5d08bd79af857d1465b3c:dbdac13db91843827ec5f604c68ad498:9481be8e3d0861b4d76079e1ff5c1bf5$"
+}
+}

@@ -1,0 +1,36 @@
+{"frames": {
+
+"s-land0.png":
+{
+	"frame": {"x":0,"y":0,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70}
+},
+"s-land1.png":
+{
+	"frame": {"x":70,"y":0,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70}
+},
+"s-land2.png":
+{
+	"frame": {"x":140,"y":0,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "s-land",
+	"format": "RGBA8888",
+	"size": {"w":210,"h":70},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5594213195ec132d5a60b8479045dcc6:939a5e918f4f0a476a4379ecf339f848:5587b862a95a3598bcb2f26351ce94e9$"
+}
+}

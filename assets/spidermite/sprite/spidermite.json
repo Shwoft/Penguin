@@ -1,0 +1,60 @@
+{"frames": {
+
+"spidermite1.png":
+{
+	"frame": {"x":0,"y":0,"w":70,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":65},
+	"sourceSize": {"w":70,"h":65}
+},
+"spidermite2.png":
+{
+	"frame": {"x":70,"y":0,"w":70,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":65},
+	"sourceSize": {"w":70,"h":65}
+},
+"spidermite3.png":
+{
+	"frame": {"x":140,"y":0,"w":70,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":65},
+	"sourceSize": {"w":70,"h":65}
+},
+"spidermite4.png":
+{
+	"frame": {"x":210,"y":0,"w":70,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":65},
+	"sourceSize": {"w":70,"h":65}
+},
+"spidermite5.png":
+{
+	"frame": {"x":280,"y":0,"w":70,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":65},
+	"sourceSize": {"w":70,"h":65}
+},
+"spidermite6.png":
+{
+	"frame": {"x":350,"y":0,"w":70,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":65},
+	"sourceSize": {"w":70,"h":65}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "spidermite",
+	"format": "RGBA8888",
+	"size": {"w":420,"h":65},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1307d698a8826ccf7891c3d09b742c9f:43c89e3e6f4320db21b62deec374abf3:0f6575055b77c8538166e69b8b41ef9e$"
+}
+}

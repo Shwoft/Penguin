@@ -1,0 +1,44 @@
+{"frames": {
+
+"fly-0.png":
+{
+	"frame": {"x":0,"y":0,"w":64,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":42},
+	"sourceSize": {"w":64,"h":42}
+},
+"fly-1.png":
+{
+	"frame": {"x":64,"y":0,"w":64,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":42},
+	"sourceSize": {"w":64,"h":42}
+},
+"fly-2.png":
+{
+	"frame": {"x":128,"y":0,"w":64,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":42},
+	"sourceSize": {"w":64,"h":42}
+},
+"fly-3.png":
+{
+	"frame": {"x":192,"y":0,"w":64,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":42},
+	"sourceSize": {"w":64,"h":42}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "fly",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":42},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ca3601c06bf83eaa0127b1b7c8a3a5ed:5e4a5818899eac0e12a2a766ad9d7368:55a0a6a01e2c943d717df40ac8a52d81$"
+}
+}
